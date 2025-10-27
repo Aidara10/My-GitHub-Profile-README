@@ -17,7 +17,7 @@ Passionate data professional with expertise in transforming raw data into meanin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habib-aidara-454013369/)
 [![Portfolio](https://img.shields.io/badge/🌐-My%20Portfolio-green?style=for-the-badge)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Contact%20me-red?style=for-the-badge&logo=gmail)](mailto:habibaidara90@gmail.com)
+[![Email](https://img.shields.io/badge/Contact%20me-red?style=for-the-badge&logo=gmail)](mailto:habibaidara90@gmail.com)
 
 ---
 
