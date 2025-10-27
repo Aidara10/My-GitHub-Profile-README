@@ -1,84 +1,59 @@
-# My-GitHub-Profile-README
-# 👋 Hi there, I'm  Habib Aidara
+# Habib Aidara  
+**Aidara10**
+
+---
+
+## 👋 Hello, I'm Habib
 
 **Data Analyst | Power BI Developer | BI Engineer | Data Scientist | ML Engineer**
+
+I'm passionate about transforming data into actionable insights through advanced analytics, business intelligence, and machine learning solutions.
 
 ---
 
 ## 🚀 About Me
 
-Passionate data professional with expertise in transforming raw data into meaningful insights through advanced analytics, business intelligence dashboards, and machine learning solutions.
+My name is **Habib Aidara**, a data professional passionate about making data understandable and valuable. I specialize in data analysis, business intelligence dashboards, and predictive modeling.
 
-**📊 Tech Stack:** Power BI • SQL • Python • Tableau • Machine Learning • Data Science • Data Warehousing 
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habib-aidara-454013369/)
-[![Portfolio](https://img.shields.io/badge/🌐-My%20Portfolio-green?style=for-the-badge)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Contact%20me-red?style=for-the-badge&logo=gmail)](mailto:habibaidara90@gmail.com)
+**🔧 Tech Stack:** Power BI • SQL • Python • Tableau • Machine Learning • Data Warehousing
 
 ---
 
-## 🛠️ Technical Skills
+## 📞 Stay Connected
 
-**Data Analysis & BI**
-- Power BI, Tableau, Excel
-- DAX, Power Query, Data Modeling
-- Business Intelligence Dashboards
+Let's stay in touch! Feel free to connect with me on the following platforms:
 
-**Data Science & ML**
-- Python (Pandas, Scikit-learn, TensorFlow)
-- Machine Learning, Predictive Modeling
-- Data Mining, Statistical Analysis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/habib-aidara-454013369/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:habibaidara90@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Aidara10)
 
-**Databases & Cloud**
-- SQL Server, T-SQL, Data Warehousing
-- ETL Processes, Data Pipelines
-- Azure, AWS
+---
+
+## 📚 Featured Projects
+
+### 🗄️ Data Engineering & SQL
+- **[Data Warehouse Project with SQL](https://github.com/Aidara10/data_Warehouse_project_with_sql)** - Building a modern data warehouse with SQL Server
+- **[TSQL Projects](https://github.com/Aidara10/TSQL)** - SQL queries and database management
+
+### 📊 Business Intelligence & Visualization  
+- **[Business Intelligence Data Viz](https://github.com/Aidara10/Business_Intelligent_Data_Viz)** - Dashboards with Power BI, Tableau, Excel
+- **[Sales Customer Dashboard Tableau](https://github.com/Aidara10/Sales_Customer_Dashboard_Tableau)** - Sales analytics with star schema model
+
+### 🤖 Machine Learning & Data Science
+- **[Customer Churn Prediction](https://github.com/Aidara10/customers_churn_prediction)** - Predictive modeling for customer retention
+- **[Breast Cancer Detection](https://github.com/Aidara10/Breast_Cancer)** - ML project for medical diagnosis
+- **[Text Data Analysis YouTube](https://github.com/Aidara10/Text_Data_Analysis_Youtube)** - NLP analysis on YouTube data
 
 ---
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-![Habib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aidara10&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidara10&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 🔧 Data Engineering & BI
-- **[Data Warehouse Project with SQL](https://github.com/Aidara10/data_Warehouse_project_with_sql)** - Building a modern data warehouse with SQL Server
-- **[Business Intelligence Data Viz](https://github.com/Aidara10/Business_Intelligent_Data_Viz)** - Dashboards with Power BI, Tableau, Excel
-
-### 🤖 Machine Learning
-- **[Customer Churn Prediction](https://github.com/Aidara10/customers_churn_prediction)** - Predictive modeling for customer retention
-- **[Breast Cancer Detection](https://github.com/Aidara10/Breast_Cancer)** - ML project for medical diagnosis
-- **[Text Data Analysis YouTube](https://github.com/Aidara10/Text_Data_Analysis_Youtube)** - NLP analysis on YouTube data
-
-### 📊 Data Visualization
-- **[Sales Customer Dashboard Tableau](https://github.com/Aidara10/Sales_Customer_Dashboard_Tableau)** - Sales analytics with star schema model
-
----
-
-## 📚 Currently Learning
-- Advanced MLOps practices
-- Cloud data engineering (Azure/AWS)
-- Deep Learning architectures
+![Habib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aidara10&show_icons=true&theme=default&hide_border=true)
 
 ---
 
 <div align="center">
 
-### ⚡ **Let's turn data into decisions!**
-
-![Visitors](https://komarev.com/ghpvc/?username=Aidara10&color=blue&style=flat-square)
+**⭐ Feel free to explore my repositories and don't forget to star your favorites!**
 
 </div>
