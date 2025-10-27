@@ -1,5 +1,5 @@
 # My-GitHub-Profile-README
-# 👋 Hello, I'm Habib Aidara
+# 👋 Hi there, I'm  Habib Aidara
 
 **Data Analyst | Power BI Developer | BI Engineer | Data Scientist | ML Engineer**
 
