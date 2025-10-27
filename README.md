@@ -1,5 +1,6 @@
 # My-GitHub-Profile-README
-# 👋 Hi there, I'm  Habib Aidara
+# <img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/0a2dccf4-85ad-4463-b62c-7a8fbd1c61f1" />
+ Hi there, I'm  Habib Aidara
 
 **Data Analyst | Power BI Developer | BI Engineer | Data Scientist | ML Engineer**
 
