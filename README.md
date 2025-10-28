@@ -1,5 +1,4 @@
-Habib Aidara/README.md
-# 👋 Hi there, I'm  Habib Aidara
+# 👋 Hi there, I'm Habib Aidara
 
 **Data Analyst | Power BI Developer | BI Engineer | Data Scientist | ML Engineer**
 
@@ -16,9 +15,7 @@ Passionate data professional with expertise in transforming raw data into meanin
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habib-aidara-454013369/)
-[![Portfolio](https://img.shields.io/badge/🌐-My%20Portfolio-green?style=for-the-badge)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/📧-Contact%20me-red?style=for-the-badge&logo=gmail)](mailto:habibaidara90@gmail.com)
-
 
 ---
 
@@ -55,17 +52,34 @@ Passionate data professional with expertise in transforming raw data into meanin
 
 ## 💼 Featured Projects
 
-### 🔧 Data Engineering & BI
-- **[Data Warehouse Project with SQL](https://github.com/Aidara10/data_Warehouse_project_with_sql)** - Building a modern data warehouse with SQL Server
-- **[Business Intelligence Data Viz](https://github.com/Aidara10/Business_Intelligent_Data_Viz)** - Dashboards with Power BI, Tableau, Excel
+### 🗄️ Data Engineering & SQL
+- **[Data Warehouse Project with SQL](https://github.com/Aidara10/data_Warehouse_project_with_sql)** - Building a modern data warehouse with SQL Server including ETL process and data modeling
+- **[TSQL Projects](https://github.com/Aidara10/TSQL)** - SQL queries and database management exercises
 
-### 🤖 Machine Learning
-- **[Customer Churn Prediction](https://github.com/Aidara10/customers_churn_prediction)** - Predictive modeling for customer retention
-- **[Breast Cancer Detection](https://github.com/Aidara10/Breast_Cancer)** - ML project for medical diagnosis
-- **[Text Data Analysis YouTube](https://github.com/Aidara10/Text_Data_Analysis_Youtube)** - NLP analysis on YouTube data
+### 📊 Business Intelligence & Data Visualization
+- **[Business Intelligence Data Viz](https://github.com/Aidara10/Business_Intelligent_Data_Viz)** - Interactive dashboards with Power BI, Tableau, and Excel
+- **[Sales Customer Dashboard Tableau](https://github.com/Aidara10/Sales_Customer_Dashboard_Tableau)** - Sales analytics with star schema model and key business KPIs
 
-### 📊 Data Visualization
-- **[Sales Customer Dashboard Tableau](https://github.com/Aidara10/Sales_Customer_Dashboard_Tableau)** - Sales analytics with star schema model
+### 🤖 Machine Learning & Predictive Modeling
+- **[Customer Churn Prediction](https://github.com/Aidara10/customers_churn_prediction)** - Predictive modeling for customer retention and behavior analysis
+- **[Automobile Price Prediction](https://github.com/Aidara10/Predict_price_automobile)** - Machine learning model to predict car prices
+- **[Auto ML Projects](https://github.com/Aidara10/Auto_ML)** - Automated machine learning pipelines and experiments
+
+### 🏥 Healthcare Data Science
+- **[Breast Cancer Detection](https://github.com/Aidara10/Breast_Cancer)** - ML project for medical diagnosis and classification
+- **[Breast Cancer Analysis](https://github.com/Aidara10/breast_bancer)** - Advanced analysis using PCA, t-SNE, and UMAP dimensionality reduction
+
+### 📝 NLP & Text Analysis
+- **[Text Data Analysis YouTube](https://github.com/Aidara10/Text_Data_Analysis_Youtube)** - Natural Language Processing analysis on YouTube data
+- **[AI Image Generator](https://github.com/Aidara10/ai-image-generator)** - AI-powered image generation and computer vision projects
+
+### 🌐 Deep Learning & Big Data
+- **[Deep Learning Projects](https://github.com/Aidara10/Deep_Learning)** - Neural networks and deep learning implementations
+- **[Machine Learning Portfolio](https://github.com/Aidara10/Machine_Leraning)** - Comprehensive machine learning algorithms and techniques
+- **[Big Data Industrielle](https://github.com/Aidara10/Big_Data_Insdustrielle)** - Industrial big data processing and analysis
+
+### 📊 Data Analysis & Reporting
+- **[COVID-19 Analysis](https://github.com/Aidara10/Covid19_Analysis)** - Data analysis and visualization of pandemic data
 
 ---
 
@@ -73,6 +87,7 @@ Passionate data professional with expertise in transforming raw data into meanin
 - Advanced MLOps practices
 - Cloud data engineering (Azure/AWS)
 - Deep Learning architectures
+- Big Data technologies
 
 ---
 
