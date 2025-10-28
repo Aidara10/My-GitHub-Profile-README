@@ -34,7 +34,7 @@ Passionate data professional with expertise in transforming raw data into meanin
 **Databases & Cloud**
 - SQL Server, T-SQL, Data Warehousing
 - ETL Processes, Data Pipelines
-- Azure, AWS
+- Azure, AWS, SAP
 
 ---
 
